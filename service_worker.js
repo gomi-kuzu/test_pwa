@@ -1,7 +1,7 @@
 // キャッシュファイルの指定
 var CACHE_NAME = 'pwa-sample-caches';
 var urlsToCache = [
-    '/gomi-kuzu.github.io/test_pwa/',
+    '/gomi-kuzu.github.io/',
 ];
 
 // インストール処理
