@@ -3,6 +3,7 @@ var CACHE_NAME = 'pwa-sample-caches';
 var urlsToCache = [
     '.',
     'images/icon.jpg',
+    'manifest.json',
 ];
 
 // インストール処理
